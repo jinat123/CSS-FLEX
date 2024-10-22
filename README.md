@@ -14,6 +14,9 @@ The CSS provided applies Flexbox to create a responsive layout for profile cards
 ### Employee Cards
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/c0b21513-2342-4a63-8dc8-eee2075988b4)
+
+
 - Displays employee information in a neat card format.
 - Includes profile pictures, names, and job titles.
 - Flexbox properties used: `display: flex`, `align-items`, `flex-direction`.
@@ -37,7 +40,7 @@ The CSS provided applies Flexbox to create a responsive layout for profile cards
 
 ###  FORM
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/5b5b3ede-da4d-4b61-a9c3-0085d0ea7abb)
+![image](https://github.com/user-attachments/assets/cfbf34d7-ee24-4e30-9257-ea3ec2bfed3f)
 
 - Flexbox properties used: `display: flex`, `flex-wrap`, `align-content`.
 
